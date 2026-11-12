@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Backups
+*.backup
+*.bak
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Terraform state
+*.tfstate
+*.tfstate.backup
+
+# Secrets
+secrets/
+
+# SSH private keys
+*.pem
+*.key
